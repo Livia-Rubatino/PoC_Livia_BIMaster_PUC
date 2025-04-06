@@ -5,7 +5,7 @@ Proof of Concept to conclusion of MBA Business Intelligence Master PUC Rio
 # Nome do projeto: 
 
 #### Aluno: [Lívia Rubatino de Faria](https://github.com/Livia-Rubatino)
-#### Orientador: [Nome Sobrenome](https://github.com/link_do_github).
+#### Orientador: [Leonardo Alfredo Forero Mendoza](https://github.com/leofome8)
 
 ---
 
