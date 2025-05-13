@@ -12,6 +12,8 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
 - [Link para o código](https://github.com/Livia-Rubatino/PoC_Livia_BIMaster_PUC/blob/main/Trabalho%20Final_BI%20Master%202022.2%20(2).ipynb)
+- [Link para a base de dados (Dicionario_Vacina_RNA.xlsx)]()
+- [Link para o banco vetorial (chroma_RNA)]()
 
 
 ---
