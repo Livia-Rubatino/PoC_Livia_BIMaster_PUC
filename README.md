@@ -1,4 +1,4 @@
-# PoC_Lívia_BIMaster_PUC
+# PoC_Livia_BIMaster_PUC
 Proof of Concept to conclusion of MBA Business Intelligence Master PUC Rio
 
 # Nome do projeto: Desenvolvimento de Chatbot RAG para análise inteligente de informações patentárias utilizando LLM e LangChain.
